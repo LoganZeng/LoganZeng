@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi everyone
+### I am currently learning some knowledge as a computer science and software engineering student.
 <!--
 **LoganZeng/LoganZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
